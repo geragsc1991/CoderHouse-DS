@@ -1,1 +1,1 @@
-# CoderHouse-DS
+# Data Science - CoderHouse
